@@ -8,7 +8,7 @@ Gameday Audio: @version(0.3)
 - By Game
 
 MLB.tv: @version(0.2)
-- ★ Today's Favorite Team's Game
+- ★ Favorite Team's Game
 - By Team
 - By Game
 
