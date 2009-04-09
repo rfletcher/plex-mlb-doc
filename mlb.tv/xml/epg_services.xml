@@ -1,0 +1,59 @@
+<!--
+    Description: Service list XML
+    Purpose: Describes MLB EPG(?) services.  #loadGamesByMatchup provides the game list URL
+    Original URL: http://mlb.mlb.com/flash/mediaplayer/v4/RC5/xml/epg_services.xml
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<services>
+<!--
+	<HTTPService id="loadTodayGames" 
+		url="http://gd.qa.mlb.com/components/game/mlb/year_2009/month_04/day_06/epg.xml" 
+		method="GET" 
+		showBusyCursor="false" />
+	<HTTPService id="loadTodayGames" 
+		url="http://gd.qa.mlb.com/components/game/mlb/year_2008/month_09/day_01/miniscoreboard.xml" 
+		method="GET" 
+		showBusyCursor="false" />	
+
+	<HTTPService id="loadTodayGames" 
+		url="http://gdx.mlb.com/components/game/mlb/year_2008/month_03/day_30/miniscoreboard.xml" 
+		method="GET" 
+		showBusyCursor="false" />	
+	<HTTPService id="loadTodayGames"  
+		url="xml/epg/epg_%y%m%d.xml"
+		map='{"year":"%y", "month":"%m", "day":"%d"}'
+		method="GET" 
+		showBusyCursor="false" />
+
+-->
+
+	<HTTPService id="loadTodayGames"  
+		url="http://gdx.mlb.com/components/game/mlb/year_%y/month_%m/day_%d/epg.xml"
+		map='{"year":"%y", "month":"%m", "day":"%d"}'
+		method="GET" 
+		showBusyCursor="false" />
+
+	<HTTPService id="loadArchivedGames" 
+		url="http://gdx.mlb.com/components/game/mlb/year_%y/month_%m/day_%d/miniscoreboard.xml" 
+		map='{"year":"%y", "month":"%m", "day":"%d"}'
+		method="GET" 
+		showBusyCursor="false" />
+	
+	<HTTPService id="loadGamesByMatchup" 
+		url="http://mlb.mlb.com/components/game/mlb/year_%y/team_epgs/%t.xml " 
+		map='{"year":"%y", "teamId":"%t"}'
+		method="GET" 
+		showBusyCursor="false" />
+	
+	<!-- Resource Bundles -->
+	<HTTPService id="enUSEpg" 
+		url="xml/resourcebundle/enUSEpg.xml"
+		method="GET"
+		showBusyCursor="false" />
+	
+	<HTTPService id="enUSEpgArchive" 
+		url="xml/resourcebundle/enUSEpgArchive.xml"
+		method="GET"
+		showBusyCursor="false" />
+</services>
