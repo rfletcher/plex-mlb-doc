@@ -1,0 +1,128 @@
+<!-- 
+    Description: MLB At Bat (iPhone) games list
+    Purpose: Lists a day's games
+    Original URL: http://gdx.mlb.com/components/game/mlb/year_2009/month_04/day_15/scoreboard_iphone.xml
+ -->
+<?xml version="1.0"?>
+<games>
+  <game source="mlb" id="2009/04/15/chamlb-detmlb-1" ampm="PM" venue="Comerica Park" game_pk="244314" time="1:05" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="CWS" home_name_abbrev="DET" away_code="cha" away_file_code="cws" away_team_id="145" away_team_city="Chi White Sox" away_team_name="White Sox" away_division="C" away_league_id="103" away_sport_code="mlb" home_code="det" home_file_code="det" home_team_id="116" home_team_city="Detroit" home_team_name="Tigers" home_division="C" home_league_id="103" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USMI0229" gameday="2009_04_15_chamlb_detmlb_1" league="AA">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="451482" first_name="Armando" last_name="Galarraga" first="Armando" last="Galarraga" wins="1" losses="0" era="1.29" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="425747" first_name="Jose" last_name="Contreras" first="Jose" last="Contreras" wins="0" losses="1" era="7.20" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244314-2009-04-15" start="2009-04-15T13:05:00-0400" title="CWS @ DET" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/clemlb-kcamlb-1" ampm="PM" venue="Kauffman Stadium" game_pk="244316" time="2:10" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="CLE" home_name_abbrev="KC" away_code="cle" away_file_code="cle" away_team_id="114" away_team_city="Cleveland" away_team_name="Indians" away_division="C" away_league_id="103" away_sport_code="mlb" home_code="kca" home_file_code="kc" home_team_id="118" home_team_city="Kansas City" home_team_name="Royals" home_division="C" home_league_id="103" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USMO0460" gameday="2009_04_15_clemlb_kcamlb_1" league="AA">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="132260" first_name="Sidney" last_name="Ponson" first="Sidney" last="Ponson" wins="0" losses="1" era="6.00" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="444836" first_name="Aaron" last_name="Laffey" first="Aaron" last="Laffey" wins="0" losses="0" era="-.--" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244316-2009-04-15" start="2009-04-15T14:10:00-0400" title="CLE @ KC" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/colmlb-chnmlb-1" ampm="PM" venue="Wrigley Field" game_pk="244317" time="2:20" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="COL" home_name_abbrev="CHC" away_code="col" away_file_code="col" away_team_id="115" away_team_city="Colorado" away_team_name="Rockies" away_division="W" away_league_id="104" away_sport_code="mlb" home_code="chn" home_file_code="chc" home_team_id="112" home_team_city="Chi Cubs" home_team_name="Cubs" home_division="C" home_league_id="104" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USIL0225" gameday="2009_04_15_colmlb_chnmlb_1" league="NN">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="425848" first_name="Rich" last_name="Harden" first="Rich" last="Harden" wins="0" losses="0" era="1.50" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="150302" first_name="Jason" last_name="Marquis" first="Jason" last="Marquis" wins="1" losses="0" era="2.57" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244317-2009-04-15" start="2009-04-15T14:20:00-0400" title="COL @ CHC" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/bosmlb-oakmlb-1" ampm="PM" venue="Oakland Coliseum" game_pk="244313" time="3:35" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="BOS" home_name_abbrev="OAK" away_code="bos" away_file_code="bos" away_team_id="111" away_team_city="Boston" away_team_name="Red Sox" away_division="E" away_league_id="103" away_sport_code="mlb" home_code="oak" home_file_code="oak" home_team_id="133" home_team_city="Oakland" home_team_name="Athletics" home_division="W" home_league_id="103" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USCA0791" gameday="2009_04_15_bosmlb_oakmlb_1" league="AA">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="474463" first_name="Brett" last_name="Anderson" first="Brett" last="Anderson" wins="0" losses="1" era="7.50" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="123801" first_name="Tim" last_name="Wakefield" first="Tim" last="Wakefield" wins="0" losses="1" era="4.50" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244313-2009-04-15" start="2009-04-15T15:35:00-0400" title="BOS @ OAK" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/slnmlb-arimlb-1" ampm="PM" venue="Chase Field" game_pk="244324" time="3:40" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="STL" home_name_abbrev="ARI" away_code="sln" away_file_code="stl" away_team_id="138" away_team_city="St. Louis" away_team_name="Cardinals" away_division="C" away_league_id="104" away_sport_code="mlb" home_code="ari" home_file_code="ari" home_team_id="109" home_team_city="Arizona" home_team_name="Diamondbacks" home_division="W" home_league_id="104" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USAZ0166" gameday="2009_04_15_slnmlb_arimlb_1" league="NN">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="279782" first_name="Jon" last_name="Garland" first="Jon" last="Garland" wins="1" losses="0" era="3.86" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="334492" first_name="Joel" last_name="Pineiro" first="Joel" last="Pineiro" wins="1" losses="0" era="2.70" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244324-2009-04-15" start="2009-04-15T15:40:00-0400" title="STL @ ARI" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/nyamlb-tbamlb-1" ampm="PM" venue="Tropicana Field" game_pk="244320" time="4:08" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="NYY" home_name_abbrev="TB" away_code="nya" away_file_code="nyy" away_team_id="147" away_team_city="NY Yankees" away_team_name="Yankees" away_division="E" away_league_id="103" away_sport_code="mlb" home_code="tba" home_file_code="tb" home_team_id="139" home_team_city="Tampa Bay" home_team_name="Rays" home_division="E" home_league_id="103" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USFL0438" gameday="2009_04_15_nyamlb_tbamlb_1" league="AA">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="458567" first_name="Andy" last_name="Sonnanstine" first="Andy" last="Sonnanstine" wins="0" losses="1" era="9.64" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="120485" first_name="Andy" last_name="Pettitte" first="Andy" last="Pettitte" wins="1" losses="0" era="1.29" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244320-2009-04-15" start="2009-04-15T16:08:00-0400" title="NYY @ TB" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/flomlb-atlmlb-1" ampm="PM" venue="Turner Field" game_pk="244318" time="7:00" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="FLA" home_name_abbrev="ATL" away_code="flo" away_file_code="fla" away_team_id="146" away_team_city="Florida" away_team_name="Marlins" away_division="E" away_league_id="104" away_sport_code="mlb" home_code="atl" home_file_code="atl" home_team_id="144" home_team_city="Atlanta" home_team_name="Braves" home_division="E" home_league_id="104" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USGA0028" gameday="2009_04_15_flomlb_atlmlb_1" league="NN">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="117955" first_name="Derek" last_name="Lowe" first="Derek" last="Lowe" wins="1" losses="0" era="0.82" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="453192" first_name="Andrew" last_name="Miller" first="Andrew" last="Miller" wins="0" losses="0" era="3.86" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244318-2009-04-15" start="2009-04-15T19:00:00-0400" title="FLA @ ATL" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/houmlb-pitmlb-1" ampm="PM" venue="PNC Park" game_pk="244319" time="7:05" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="HOU" home_name_abbrev="PIT" away_code="hou" away_file_code="hou" away_team_id="117" away_team_city="Houston" away_team_name="Astros" away_division="C" away_league_id="104" away_sport_code="mlb" home_code="pit" home_file_code="pit" home_team_id="134" home_team_city="Pittsburgh" home_team_name="Pirates" home_division="C" home_league_id="104" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USPA1290" gameday="2009_04_15_houmlb_pitmlb_1" league="NN">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="456027" first_name="Ross" last_name="Ohlendorf" first="Ross" last="Ohlendorf" wins="0" losses="1" era="3.00" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="115399" first_name="Mike" last_name="Hampton" first="Mike" last="Hampton" wins="0" losses="1" era="5.40" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244319-2009-04-15" start="2009-04-15T19:05:00-0400" title="HOU @ PIT" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/phimlb-wasmlb-1" ampm="PM" venue="Nationals Park" game_pk="244321" time="7:05" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="PHI" home_name_abbrev="WSH" away_code="phi" away_file_code="phi" away_team_id="143" away_team_city="Philadelphia" away_team_name="Phillies" away_division="E" away_league_id="104" away_sport_code="mlb" home_code="was" home_file_code="was" home_team_id="120" home_team_city="Washington" home_team_name="Nationals" home_division="E" home_league_id="104" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USDC0001" gameday="2009_04_15_phimlb_wasmlb_1" league="NN">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="463017" first_name="Shairon" last_name="Martis" first="Shairon" last="Martis" wins="0" losses="0" era="9.00" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="430599" first_name="Joe" last_name="Blanton" first="Joe" last="Blanton" wins="0" losses="0" era="15.75" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244321-2009-04-15" start="2009-04-15T19:05:00-0400" title="PHI @ WSH" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/sdnmlb-nynmlb-1" ampm="PM" venue="Citi Field" game_pk="244322" time="7:10" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="SD" home_name_abbrev="NYM" away_code="sdn" away_file_code="sd" away_team_id="135" away_team_city="San Diego" away_team_name="Padres" away_division="W" away_league_id="104" away_sport_code="mlb" home_code="nyn" home_file_code="nym" home_team_id="121" home_team_city="NY Mets" home_team_name="Mets" home_division="E" home_league_id="104" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USNY0504" gameday="2009_04_15_sdnmlb_nynmlb_1" league="NN">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="424144" first_name="Oliver" last_name="Perez" first="Oliver" last="Perez" wins="0" losses="1" era="16.62" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="429781" first_name="Kevin" last_name="Correia" first="Kevin" last="Correia" wins="0" losses="0" era="4.50" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244322-2009-04-15" start="2009-04-15T19:10:00-0400" title="SD @ NYM" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/balmlb-texmlb-1" ampm="PM" venue="Rangers Ballpark in Arlington" game_pk="244312" time="8:05" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="BAL" home_name_abbrev="TEX" away_code="bal" away_file_code="bal" away_team_id="110" away_team_city="Baltimore" away_team_name="Orioles" away_division="E" away_league_id="103" away_sport_code="mlb" home_code="tex" home_file_code="tex" home_team_id="140" home_team_city="Texas" home_team_name="Rangers" home_division="W" home_league_id="103" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USTX0045" gameday="2009_04_15_balmlb_texmlb_1" league="AA">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="150249" first_name="Kris" last_name="Benson" first="Kris" last="Benson" wins="0" losses="1" era="12.60" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="424805" first_name="Mark" last_name="Hendrickson" first="Mark" last="Hendrickson" wins="1" losses="0" era="1.69" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244312-2009-04-15" start="2009-04-15T20:05:00-0400" title="BAL @ TEX" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/cinmlb-milmlb-1" ampm="PM" venue="Miller Park" game_pk="244315" time="8:05" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="CIN" home_name_abbrev="MIL" away_code="cin" away_file_code="cin" away_team_id="113" away_team_city="Cincinnati" away_team_name="Reds" away_division="C" away_league_id="104" away_sport_code="mlb" home_code="mil" home_file_code="mil" home_team_id="158" home_team_city="Milwaukee" home_team_name="Brewers" home_division="C" home_league_id="104" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USWI0455" gameday="2009_04_15_cinmlb_milmlb_1" league="NN">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="131702" first_name="Braden" last_name="Looper" first="Braden" last="Looper" wins="0" losses="0" era="1.80" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="452249" first_name="Micah" last_name="Owings" first="Micah" last="Owings" wins="0" losses="0" era="-.--" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244315-2009-04-15" start="2009-04-15T20:05:00-0400" title="CIN @ MIL" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/tormlb-minmlb-1" ampm="PM" venue="Hubert H. Humphrey Metrodome" game_pk="244325" time="8:10" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="TOR" home_name_abbrev="MIN" away_code="tor" away_file_code="tor" away_team_id="141" away_team_city="Toronto" away_team_name="Blue Jays" away_division="E" away_league_id="103" away_sport_code="mlb" home_code="min" home_file_code="min" home_team_id="142" home_team_city="Minnesota" home_team_name="Twins" home_division="C" home_league_id="103" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USMN0503" gameday="2009_04_15_tormlb_minmlb_1" league="AA">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="435044" first_name="Scott" last_name="Baker" first="Scott" last="Baker" wins="0" losses="0" era="-.--" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="446341" first_name="Scott" last_name="Richmond" first="Scott" last="Richmond" wins="0" losses="0" era="6.75" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244325-2009-04-15" start="2009-04-15T20:10:00-0400" title="TOR @ MIN" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/anamlb-seamlb-1" ampm="PM" venue="Safeco Field" game_pk="244311" time="10:10" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="LAA" home_name_abbrev="SEA" away_code="ana" away_file_code="ana" away_team_id="108" away_team_city="LA Angels" away_team_name="Angels" away_division="W" away_league_id="103" away_sport_code="mlb" home_code="sea" home_file_code="sea" home_team_id="136" home_team_city="Seattle" home_team_name="Mariners" home_division="W" home_league_id="103" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USWA0395" gameday="2009_04_15_anamlb_seamlb_1" league="AA">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="132220" first_name="Jarrod" last_name="Washburn" first="Jarrod" last="Washburn" wins="1" losses="0" era="0.00" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="450308" first_name="Jered" last_name="Weaver" first="Jered" last="Weaver" wins="1" losses="0" era="0.00" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244311-2009-04-15" start="2009-04-15T22:10:00-0400" title="LAA @ SEA" media_state="media_off"/>
+    </game_media>
+  </game>
+  <game source="mlb" id="2009/04/15/sfnmlb-lanmlb-1" ampm="PM" venue="Dodger Stadium" game_pk="244323" time="10:10" time_zone="ET" game_type="R" resume_date="" away_name_abbrev="SF" home_name_abbrev="LAD" away_code="sfn" away_file_code="sf" away_team_id="137" away_team_city="San Francisco" away_team_name="Giants" away_division="W" away_league_id="104" away_sport_code="mlb" home_code="lan" home_file_code="la" home_team_id="119" home_team_city="LA Dodgers" home_team_name="Dodgers" home_division="W" home_league_id="104" home_sport_code="mlb" day="WED" gameday_sw="E" away_games_back="" home_games_back="" away_games_back_wildcard="" home_games_back_wildcard="" venue_w_chan_loc="USCA0638" gameday="2009_04_15_sfnmlb_lanmlb_1" league="NN">
+    <status status="Preview" ind="S"/>
+    <home_probable_pitcher id="477132" first_name="Clayton" last_name="Kershaw" first="Clayton" last="Kershaw" wins="0" losses="0" era="1.80" s_wins="" s_losses="" s_era=""/>
+    <away_probable_pitcher id="430912" first_name="Matt" last_name="Cain" first="Matt" last="Cain" wins="1" losses="0" era="1.29" s_wins="" s_losses="" s_era=""/>
+    <game_media>
+      <media type="game" calendar_event_id="14-244323-2009-04-15" start="2009-04-15T22:10:00-0400" title="SF @ LAD" media_state="media_off"/>
+    </game_media>
+  </game>
+</games>
