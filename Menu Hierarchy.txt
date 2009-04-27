@@ -1,3 +1,4 @@
+Menu:
 Highlights: @version(0.1)
 - Featured Highlights
 - Team Highlights
@@ -9,11 +10,12 @@ Gameday Audio: @version(0.3)
 
 MLB.tv: @version(0.2)
 - ★ Favorite Team's Game
-- By Team
-- By Game
+- Game 1
+- ...
+- Game N
 
 Preferences: @version(0.2)
-- ✓ Favorite Team
-- ✓ MLB.com Login
-- ✓ MLB.com Password
-
+- Favorite Team
+- MLB.com Login
+- MLB.com Password
+- Show spoilers for finished games
